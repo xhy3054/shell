@@ -1,0 +1,414 @@
+
+ 
+1.
+begin_time   :            97.692100
+ISI          :             3.032500
+Rating_begin :            15.062800
+Rating_end   :            11.874700
+Rating_begin :            28.609400
+Rating_end   :             1.442400
+Difficulty   :                   16
+Rating_begin :            33.624800
+Rating_end   :             1.533700
+pain         :                   20
+ITI          :            38.640200
+
+ 
+2.
+begin_time   :           147.179600
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             1.363600
+Difficulty   :                    8
+Rating_begin :            33.641600
+Rating_end   :             2.098100
+Difference   :                   67
+ITI          :            38.657000
+
+ 
+3.
+begin_time   :           193.867900
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             9.225200
+Rating_begin :            28.609500
+Rating_end   :             2.218200
+Difficulty   :                   79
+Rating_begin :            33.624900
+Rating_end   :             0.161000
+pain         :                   82
+ITI          :            38.640300
+
+ 
+4.
+begin_time   :           243.188800
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             9.343600
+Rating_begin :            28.609500
+Rating_end   :             1.786800
+Difficulty   :                   67
+Rating_begin :            33.624900
+Rating_end   :             2.396400
+vibration    :                   56
+ITI          :            38.640300
+
+ 
+5.
+begin_time   :           289.860500
+ISI          :             3.032500
+Rating_begin :            28.626100
+Rating_end   :             0.743400
+Difficulty   :                   87
+Rating_begin :            33.641500
+Rating_end   :             1.670700
+Difference   :                   13
+ITI          :            38.656900
+
+ 
+6.
+begin_time   :           339.198100
+ISI          :             3.032600
+Rating_begin :            28.626100
+Rating_end   :             1.558400
+Difficulty   :                   84
+Rating_begin :            33.641500
+Rating_end   :             1.176800
+Difference   :                   12
+ITI          :            38.656900
+
+ 
+7.
+begin_time   :           385.886300
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             9.846100
+Rating_begin :            28.609500
+Rating_end   :             2.515000
+Difficulty   :                   67
+Rating_begin :            33.624900
+Rating_end   :             1.375100
+pain         :                   85
+ITI          :            38.640300
+
+ 
+8.
+begin_time   :           435.190600
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             7.387400
+Rating_begin :            28.609500
+Rating_end   :             3.528500
+Difficulty   :                   44
+Rating_begin :            33.624900
+Rating_end   :             2.190900
+vibration    :                    9
+ITI          :            38.640300
+
+ 
+9.
+begin_time   :           481.862200
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             1.323900
+Difficulty   :                   95
+Rating_begin :            33.641600
+Rating_end   :             1.478300
+Difference   :                    2
+ITI          :            38.657000
+
+ 
+10.
+begin_time   :           531.199900
+ISI          :             3.032500
+Rating_begin :            28.626100
+Difficulty   :                   50
+Rating_begin :            33.641500
+Rating_end   :             1.899700
+Difference   :                   27
+ITI          :            38.656900
+
+ 
+11.
+begin_time   :           577.888100
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             1.888900
+Difficulty   :                   25
+Rating_begin :            33.641600
+Difference   :                   49
+ITI          :            38.657000
+
+ 
+12.
+begin_time   :           627.209100
+ISI          :             3.032500
+Rating_end   :           -26.267000
+Rating_begin :            15.062900
+Rating_end   :             7.684600
+Rating_begin :            28.609500
+Rating_end   :             1.987100
+Difficulty   :                   19
+Rating_begin :            33.624900
+Rating_end   :             1.545300
+vibration    :                   44
+ITI          :            38.640300
+
+ 
+13.
+begin_time   :           673.880700
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :            10.528700
+Rating_begin :            28.609500
+Rating_end   :             1.809100
+Difficulty   :                   26
+Rating_begin :            33.624900
+Rating_end   :             2.624700
+pain         :                   27
+ITI          :            38.640300
+
+ 
+14.
+begin_time   :           723.218300
+ISI          :             3.032600
+Rating_begin :            28.626100
+Rating_end   :             1.530300
+Difficulty   :                   10
+Rating_begin :            33.641600
+Rating_end   :             0.808500
+Difference   :                   67
+ITI          :            38.657000
+
+ 
+15.
+begin_time   :           769.906600
+ISI          :             3.032600
+Rating_begin :            28.626100
+Rating_end   :             1.706600
+Difficulty   :                   80
+Rating_begin :            33.641500
+Rating_end   :             2.473700
+Difference   :                   10
+ITI          :            38.656900
+
+ 
+16.
+begin_time   :           819.210900
+ISI          :             3.032500
+Rating_begin :            15.062800
+Rating_end   :             9.425400
+Rating_begin :            28.609400
+Rating_end   :             0.995200
+Difficulty   :                   24
+Rating_begin :            33.624900
+Rating_end   :             0.123000
+vibration    :                   28
+ITI          :            38.640300
+
+ 
+17.
+begin_time   :           865.882500
+ISI          :             3.032500
+Rating_begin :            15.062900
+Rating_end   :            12.058300
+Rating_begin :            28.609500
+Rating_end   :             1.484900
+Difficulty   :                   18
+Rating_begin :            33.624900
+Rating_end   :             2.119400
+pain         :                   17
+ITI          :            38.640300
+
+ 
+18.
+begin_time   :           915.220100
+ISI          :             3.032600
+Rating_begin :            28.626100
+Difficulty   :                   50
+Rating_begin :            33.641500
+Difference   :                   49
+ITI          :            38.656900
+
+ 
+19.
+begin_time   :           961.908400
+ISI          :             3.032500
+Rating_end   :           -25.583400
+Rating_begin :            28.626100
+Rating_end   :             2.135800
+Difficulty   :                   59
+Rating_begin :            33.641500
+Rating_end   :             0.837200
+Difference   :                   17
+ITI          :            38.656900
+
+ 
+20.
+begin_time   :          1011.229300
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             8.477100
+Rating_begin :            28.609500
+Rating_end   :             2.358100
+Difficulty   :                   60
+Rating_begin :            33.624900
+Rating_end   :             1.096200
+vibration    :                   16
+ITI          :            38.640300
+
+ 
+21.
+begin_time   :          1057.900900
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             3.741200
+Difficulty   :                   40
+Rating_begin :            33.641600
+Rating_end   :             1.264500
+Difference   :                   36
+ITI          :            38.657000
+
+ 
+22.
+begin_time   :          1107.238500
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             0.732700
+Difficulty   :                    5
+Rating_begin :            33.641600
+Rating_end   :             0.627000
+Difference   :                   89
+ITI          :            38.657000
+
+ 
+23.
+begin_time   :          1153.926800
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             9.947200
+Rating_begin :            28.609500
+Rating_end   :             2.105200
+Difficulty   :                   48
+Rating_begin :            33.624900
+Rating_end   :             1.111800
+pain         :                    7
+ITI          :            38.640300
+
+ 
+24.
+begin_time   :          1203.231100
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :            10.809900
+Rating_begin :            28.609500
+Rating_end   :             1.718900
+Difficulty   :                   84
+Rating_begin :            33.624900
+Rating_end   :             0.774300
+vibration    :                   21
+ITI          :            38.640300
+
+ 
+25.
+begin_time   :          1249.902700
+ISI          :             3.032600
+Rating_begin :            28.626100
+Rating_end   :             1.170800
+Difficulty   :                   30
+Rating_begin :            33.641600
+Rating_end   :             0.047200
+Difference   :                   61
+ITI          :            38.657000
+
+ 
+26.
+begin_time   :          1299.240300
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             1.335100
+Difficulty   :                    6
+Rating_begin :            33.641600
+Rating_end   :             0.486500
+Difference   :                   94
+ITI          :            38.657000
+
+ 
+27.
+begin_time   :          1345.928600
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             7.739900
+Rating_begin :            28.609500
+Rating_end   :             2.434800
+Difficulty   :                   39
+Rating_begin :            33.624900
+Rating_end   :             0.686100
+pain         :                   30
+ITI          :            38.640300
+
+ 
+28.
+begin_time   :          1395.249500
+ISI          :             3.032600
+Rating_begin :            28.626200
+Rating_end   :             1.979400
+Difficulty   :                   73
+Rating_begin :            33.641600
+Rating_end   :             0.619700
+Difference   :                   19
+ITI          :            38.657000
+
+ 
+29.
+begin_time   :          1441.937800
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             9.675400
+Rating_begin :            28.609500
+Rating_end   :             1.487900
+Difficulty   :                   17
+Rating_begin :            33.624900
+Rating_end   :             1.477600
+pain         :                   19
+ITI          :            38.640300
+
+ 
+30.
+begin_time   :          1491.258800
+ISI          :             3.032500
+Rating_begin :            15.062900
+Rating_end   :             8.822900
+Rating_begin :            28.609500
+Rating_end   :             0.608800
+Difficulty   :                   81
+Rating_begin :            33.624900
+Rating_end   :             0.709900
+vibration    :                   17
+ITI          :            38.640300
+
+ 
+31.
+begin_time   :          1537.930400
+ISI          :             3.032600
+Rating_begin :            28.626100
+Rating_end   :             2.973900
+Difficulty   :                   45
+Rating_begin :            33.641500
+Rating_end   :             2.027800
+Difference   :                   38
+ITI          :            38.656900
+
+ 
+32.
+begin_time   :          1587.251300
+ISI          :             3.032600
+Rating_begin :            15.062900
+Rating_end   :             7.331800
+Rating_begin :            28.609500
+Rating_end   :             1.883600
+Difficulty   :                    9
+Rating_begin :            33.624900
+Rating_end   :             0.646900
+vibration    :                   10
+ITI          :            38.640300

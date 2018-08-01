@@ -1,0 +1,17 @@
+7	greenbox1	976921
+101	greenbox1	1938679
+168	greenbox1	2431888
+335	greenbox1	3858863
+386	greenbox1	4351906
+577	greenbox1	6272091
+631	greenbox1	6738807
+787	greenbox1	8192109
+839	greenbox1	8658825
+977	greenbox1	10112293
+1120	greenbox1	11539268
+1181	greenbox1	12032311
+1344	greenbox1	13459286
+1432	greenbox1	14419378
+1485	greenbox1	14912588
+1571	greenbox1	15872513
+awk '$4 ~ /greenbox1/ {print NR,$4,$5}' "OFS=\t" a009.log > pipei
